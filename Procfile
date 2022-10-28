@@ -1,1 +1,1 @@
-web: gunicorn HNG9.0-stage1task.wsgi --log-file -
+web: gunicorn stage1.wsgi --log-file -
